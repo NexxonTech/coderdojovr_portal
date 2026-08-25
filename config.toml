@@ -1,4 +1,4 @@
-base_url = "https://coderdojovr.nexxontech.it"
+base_url = "https://www.coderdojovr.it"
 minify_html = true
 ignored_static = [ ".gitignore", "*.src.css", "*.mjs" ]
 
